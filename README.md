@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/andresfib8OSJX/Agile%20Planning/_apis/build/status/andresfib.calculator?branchName=refs%2Fpull%2F3%2Fmerge)](https://dev.azure.com/andresfib8OSJX/Agile%20Planning/_build/latest?definitionId=3&branchName=refs%2Fpull%2F3%2Fmerge)
+[![Build Status](https://dev.azure.com/andresfib8OSJX/Agile%20Planning/_apis/build/status/andresfib.calculator?branchName=master)](https://dev.azure.com/andresfib8OSJX/Agile%20Planning/_build/latest?definitionId=3&branchName=master)
 
 Calculator.js: a node.js Demonstration Project
 ==============================================
